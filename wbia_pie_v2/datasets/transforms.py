@@ -168,7 +168,7 @@ def build_transforms(
                 scale=(0.9, 1.1),
                 shear=(5, 5),
                 #resample=0,
-                fillcolor=0,
+                #fillcolor=0,
             )
         ]
 
